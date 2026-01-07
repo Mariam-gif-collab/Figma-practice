@@ -4,3 +4,9 @@
 .topbox {
     margin-right: -40px;
 }
+.hero1 .content {
+    width: 45%;
+}
+.cards {
+    flex-wrap: wrap;
+}
